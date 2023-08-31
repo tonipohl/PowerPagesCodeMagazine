@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="fe617151-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"displayorder":3,"enablerating":false,"enabletracking":false,"excludefromsearch":false,"feedbackpolicy":756150000,"hiddenfromsitemap":false,"isroot":true,"pagetemplateid":"4d467245-3d47-ee11-be6e-000d3ab0ecd2","parentpageid":"b154744b-3d47-ee11-be6e-000d3ab0ecd2","partialurl":"contact-us","publishingstateid":"aa617151-3d47-ee11-be6e-000d3ab0ecd2","sharedpageconfiguration":false}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Contact us</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>1</statecode>
+  <statuscode>2</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="ad54744b-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"adddescription":false,"attributelogicalname":"firstname","descriptionposition":100000000,"entityform":"7a617151-3d47-ee11-be6e-000d3ab0ecd2","fieldisrequired":true,"ignoredefaultvalue":false,"randomizeoptionsetvalues":false,"setvalueonsave":false,"type":100000000,"useattributedescriptionproperty":true}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Add Attendee firstname</name>
+  <powerpagecomponenttype>16</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

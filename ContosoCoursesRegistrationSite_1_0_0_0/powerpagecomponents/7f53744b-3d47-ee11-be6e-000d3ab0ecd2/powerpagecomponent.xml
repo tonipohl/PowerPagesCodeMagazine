@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="7f53744b-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"display_name":"My Attendees","type":756150000,"value":"My Attendees\r\n"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>My Attendees</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="5853744b-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"adddescription":false,"attributelogicalname":"msdynce_entityimage_file_name","controlstyle":756150001,"descriptionposition":100000000,"entityform":"7754744b-3d47-ee11-be6e-000d3ab0ecd2","fieldisrequired":false,"ignoredefaultvalue":false,"randomizeoptionsetvalues":false,"setvalueonsave":false,"type":100000000,"useattributedescriptionproperty":true}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP Edit Form msdynce_entityimage_file_name</name>
+  <powerpagecomponenttype>16</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

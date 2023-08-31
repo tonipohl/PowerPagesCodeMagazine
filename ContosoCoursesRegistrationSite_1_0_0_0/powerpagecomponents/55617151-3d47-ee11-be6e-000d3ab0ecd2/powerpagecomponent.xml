@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="55617151-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"source":"{% include 'Portal Web API Wrapper' %}"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Basic Web API Template</name>
+  <powerpagecomponenttype>8</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

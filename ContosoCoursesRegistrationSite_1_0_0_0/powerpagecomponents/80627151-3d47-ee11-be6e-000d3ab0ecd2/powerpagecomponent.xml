@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="80627151-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"adx_webpageaccesscontrolrule_webrole":["61617151-3d47-ee11-be6e-000d3ab0ecd2"],"right":2,"scope":1,"webpageid":"0d54744b-3d47-ee11-be6e-000d3ab0ecd2"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Restrict Read on Create Course</name>
+  <powerpagecomponenttype>10</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

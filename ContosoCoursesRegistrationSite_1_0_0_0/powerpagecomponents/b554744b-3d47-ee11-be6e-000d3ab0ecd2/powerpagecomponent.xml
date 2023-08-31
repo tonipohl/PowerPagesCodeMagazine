@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="b554744b-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"adx_entitypermission_webrole":["1954744b-3d47-ee11-be6e-000d3ab0ecd2"],"append":false,"appendto":false,"create":false,"delete":false,"entitylogicalname":"msdynce_course","entityname":"ASP Anonymous Course","read":true,"scope":756150000,"write":false}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP Anonymous Course</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

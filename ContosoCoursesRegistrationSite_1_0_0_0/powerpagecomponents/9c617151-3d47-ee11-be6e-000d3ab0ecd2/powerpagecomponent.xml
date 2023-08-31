@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="9c617151-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"copy":"&lt;div class=\"row sectionBlockLayout\" data-component-theme=\"portalThemeColor2\" style=\"height: 15px; min-height: 15px;\"&gt;\r\n&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; text-align: left; min-height: 541px; padding: 8px; margin: 0px; background: url('/error-illustration.png');\"&gt;\r\n  &lt;div class=\"container\" style=\"display: flex; flex-wrap: wrap;\"&gt;\r\n    &lt;div class=\"col-md-12 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 300px; margin-left: 0px; margin-right: 0px;\"&gt;&lt;/div&gt;\r\n  &lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; text-align: center; min-height: 100px; padding: 8px; margin: 0px;\"&gt;\r\n  &lt;div class=\"container\" style=\"display: flex; flex-wrap: wrap;\"&gt;\r\n    &lt;div class=\"col-md-12 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 300px; margin-left: 0px; margin-right: 0px;\"&gt;\r\n      &lt;h2&gt;You don&amp;#8217;t have access to this&lt;/h2&gt;\r\n      &lt;h5&gt;Check your credentials or ask your admin to request access&lt;/h5&gt;\r\n    &lt;/div&gt;\r\n  &lt;/div&gt;\r\n&lt;/div&gt;","enablerating":false,"enabletracking":false,"excludefromsearch":true,"feedbackpolicy":756150000,"hiddenfromsitemap":true,"isroot":false,"pagetemplateid":"4d467245-3d47-ee11-be6e-000d3ab0ecd2","parentpageid":"b154744b-3d47-ee11-be6e-000d3ab0ecd2","partialurl":"access-denied","publishingstateid":"aa617151-3d47-ee11-be6e-000d3ab0ecd2","rootwebpageid":"59617151-3d47-ee11-be6e-000d3ab0ecd2","sharedpageconfiguration":false}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Access Denied</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>c5627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

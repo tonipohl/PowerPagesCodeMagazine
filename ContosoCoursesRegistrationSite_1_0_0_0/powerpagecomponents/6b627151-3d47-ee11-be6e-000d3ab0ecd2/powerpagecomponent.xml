@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="6b627151-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"adx_entitypermission_webrole":["61617151-3d47-ee11-be6e-000d3ab0ecd2"],"append":true,"appendto":true,"contactrelationship":"contact_customer_contacts","create":false,"delete":false,"entitylogicalname":"contact","entityname":"ASP C1 Contact","read":true,"scope":756150000,"write":false}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP C1 Contact</name>
+  <powerpagecomponenttype>18</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

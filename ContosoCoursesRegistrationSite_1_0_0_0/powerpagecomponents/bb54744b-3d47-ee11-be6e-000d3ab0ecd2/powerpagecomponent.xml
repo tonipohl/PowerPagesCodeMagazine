@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="bb54744b-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"value":"End time can't come before the start time."}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP/Course/Form/Validation/Field/EndTimeBeforeStartTime</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

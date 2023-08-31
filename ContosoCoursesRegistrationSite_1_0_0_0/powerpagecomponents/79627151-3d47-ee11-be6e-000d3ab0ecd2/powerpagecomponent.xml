@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="79627151-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"adddescription":false,"attributelogicalname":"msdynce_frequency","controlstyle":100000001,"descriptionposition":100000000,"entityform":"4f54744b-3d47-ee11-be6e-000d3ab0ecd2","fieldisrequired":false,"ignoredefaultvalue":false,"randomizeoptionsetvalues":false,"setvalueonsave":false,"type":100000000,"useattributedescriptionproperty":true}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP Create Course msdynce_frequency</name>
+  <powerpagecomponenttype>16</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

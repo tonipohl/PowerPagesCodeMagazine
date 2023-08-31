@@ -1,0 +1,11 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="c3627151-3d47-ee11-be6e-000d3ab0ecd2">
+    <content>{"defaultlanguage":"c5627151-3d47-ee11-be6e-000d3ab0ecd2","footerwebtemplateid":"b0617151-3d47-ee11-be6e-000d3ab0ecd2","headerwebtemplateid":"a9467245-3d47-ee11-be6e-000d3ab0ecd2","statecode":0,"statuscode":1,"website_language":1033}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <iscustomizable>1</iscustomizable>
+    <name>Contoso Courses - Registration Site - contoso-courses-registration-site-tntlo</name>
+    <primarydomainname>contoso-courses-registration-site-tntlo.powerappsportals.com</primarydomainname>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>

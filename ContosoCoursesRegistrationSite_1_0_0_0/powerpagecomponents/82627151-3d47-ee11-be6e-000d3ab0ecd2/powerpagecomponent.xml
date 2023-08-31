@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="82627151-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"value":"Description can't be longer than 1000 characters."}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>ASP/Course/Form/Validation/Field/DescriptionToLong</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

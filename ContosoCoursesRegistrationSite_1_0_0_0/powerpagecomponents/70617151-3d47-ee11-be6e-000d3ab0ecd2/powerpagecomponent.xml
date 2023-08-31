@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="70617151-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"copy":"{% include 'Portal Web API Wrapper'%}&lt;div class=\"row sectionBlockLayout\" style=\"display: flex; flex-wrap: wrap; padding: 8px; margin: 0px;\"&gt;\r\n  &lt;div class=\"container\"&gt;\r\n    &lt;div class=\"col-md-12 columnBlockLayout\" style=\"flex-grow: 1; display: flex; flex-direction: column; min-width: 300px;\"&gt;{% entityform name: 'Add Attendee' %}&lt;p&gt;* Denotes a required field&amp;nbsp;&lt;/p&gt;\r\n    &lt;/div&gt;\r\n  &lt;/div&gt;\r\n&lt;/div&gt;","displayorder":14,"enablerating":false,"enabletracking":false,"excludefromsearch":true,"feedbackpolicy":756150000,"hiddenfromsitemap":true,"isroot":true,"pagetemplateid":"4d467245-3d47-ee11-be6e-000d3ab0ecd2","parentpageid":"b154744b-3d47-ee11-be6e-000d3ab0ecd2","partialurl":"add-attendee","publishingstateid":"aa617151-3d47-ee11-be6e-000d3ab0ecd2","sharedpageconfiguration":true,"summary":"&lt;p&gt;This is sample landing page for you to start building your website&lt;/p&gt;","title":"Add Attendee Profile"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Add Attendee Profile</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

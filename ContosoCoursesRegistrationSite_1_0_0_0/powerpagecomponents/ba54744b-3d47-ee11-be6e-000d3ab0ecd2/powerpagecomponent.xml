@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="ba54744b-3d47-ee11-be6e-000d3ab0ecd2">
+  <content>{"display_name":"Profile/SecurityNav/ChangeEmail","type":756150000,"value":"Change Email"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Profile/SecurityNav/ChangeEmail</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>c3627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>c5627151-3d47-ee11-be6e-000d3ab0ecd2</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
